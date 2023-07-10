@@ -1,0 +1,1 @@
+This is a flask application that can be your note taker or a todo list application. I made this project to branch out my web development jousrney to my first programming language python and i found it quite fun. 
